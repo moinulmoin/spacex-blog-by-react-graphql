@@ -1,0 +1,12 @@
+.App {
+	width: 1140px;
+	margin: 20px auto;
+}
+.text-center {
+	text-align: center;
+}
+.posts {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 20px 20px;
+}
